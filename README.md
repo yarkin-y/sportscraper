@@ -36,3 +36,9 @@ teams_csv, players_csv, stats_csv = run_full_scrape(
 print("Teams saved to:", teams_csv)
 print("Players saved to:", players_csv)
 print("Stats saved to:", stats_csv)
+```
+
+
+I still have many other sources of football data that I want to include within this account, so if you would like to support me, you can buy me a coffee here!
+
+https://buymeacoffee.com/yarkin_y
